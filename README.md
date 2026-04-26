@@ -6,7 +6,7 @@ An end-to-end data analytics project utilizing SQL for ETL (Extract, Transform, 
 
 Data Source: Kaggle - Hospital Operations Dataset
 
-Interactive Dashboard: [Link to your Tableau Public Profile]
+Interactive Dashboard: (https://public.tableau.com/views/HospitalOperationsRevenueAnalysis/RevenuebyDemographics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Full Case Study: Link to hospital_portfolio_case_study.md
 
